@@ -27,7 +27,7 @@ jobs:
 
     steps:
       - name: Checkout reposito@{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository"}ry
-        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332
+        uses: actions/checkout@d632683dd7b4114ad314bca15554477dd762a938
 
       - name: Use <setup@{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository"} to@{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository"}oling>
         uses: <action@{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-reposito@{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository"}ry"} to setup@{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository"} tooling>@{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository"}
